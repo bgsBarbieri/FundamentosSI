@@ -13,7 +13,7 @@ Sistemas de Informação Executiva — Painéis de controle estratégicos, exemp
 Sistemas Colaborativos e de Comunicação — Trabalho remoto, exemplo: Microsoft Teams, Slack.
 Sistemas de Gestão do Conhecimento — Armazenamento e compartilhamento de conhecimento, exemplo: wikis corporativos.
 
-push- enviar/ comitar/ lançar no hitgub o codigo  
-pull- puxar/ buscar/ baixar o código  
-commitar- salvar no github o codigo  
+*Push*- enviar/ comitar/ lançar no hitgub o codigo  
+*Pull*- puxar/ buscar/ baixar o código  
+*Commitar*- salvar no github o codigo  
 
