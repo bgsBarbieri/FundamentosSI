@@ -6,7 +6,12 @@ Servem para auxiliar a realização de tarefas através de meios tecnológicos. 
 automação de tarefas; organização de dados; armazenamento de dados, etc.  
 
 ## iii. Categorias de sistemas de informação.  
-
+Sistemas de Processamento de Transações — Registros operacionais, exemplo: sistema de ponto eletrônico.
+Sistemas de Informações Gerenciais — Relatórios e análises de desempenho, exemplo: relatórios de vendas.
+Sistemas de Apoio à Decisão — Análise de cenários, exemplo: BI para prever demandas.
+Sistemas de Informação Executiva — Painéis de controle estratégicos, exemplo: dashboards financeiros.
+Sistemas Colaborativos e de Comunicação — Trabalho remoto, exemplo: Microsoft Teams, Slack.
+Sistemas de Gestão do Conhecimento — Armazenamento e compartilhamento de conhecimento, exemplo: wikis corporativos.
 
 push- enviar/ comitar/ lançar no hitgub o codigo  
 pull- puxar/ buscar/ baixar o código  
