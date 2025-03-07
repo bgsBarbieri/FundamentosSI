@@ -9,7 +9,7 @@ automação de tarefas; organização de dados; armazenamento de dados, etc.
 Sistemas de Processamento de Transações — Registros de transações; exemplos: sistema de gerenciamento de estoque, contabilidade, caixa de supermercado, etc.  
 Sistemas de Informações Gerenciais — Relatórios e análises de desempenho, exemplo: relatórios de vendas, sistemas de almoxarifado.  
 Sistemas de Apoio à Decisão — Análise de cenários, exemplo: sistemas de logística em geral, planilhas eletrônicas, etc.  
-Sistemas de Informação Executiva — Painéis de controle estratégicos, exemplo: dashboards financeiros.  
+Sistemas de Informação Executiva — Painéis de controle estratégicos, exemplo: sistemas de rh, dashboard financeiro.  
 
 
 *Push*- enviar/ comitar/ lançar no hitgub o codigo  
