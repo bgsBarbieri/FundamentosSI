@@ -10,8 +10,7 @@ Sistemas de Processamento de Transações — Registros de transações; exemplo
 Sistemas de Informações Gerenciais — Relatórios e análises de desempenho, exemplo: relatórios de vendas, sistemas de almoxarifado.  
 Sistemas de Apoio à Decisão — Análise de cenários, exemplo: sistemas de logística em geral, planilhas eletrônicas, etc.  
 Sistemas de Informação Executiva — Painéis de controle estratégicos, exemplo: dashboards financeiros.  
-Sistemas Colaborativos e de Comunicação — Trabalho remoto, exemplo: Microsoft Teams, Slack.  
-Sistemas de Gestão do Conhecimento — Armazenamento e compartilhamento de conhecimento, exemplo: wikis corporativos.  
+
 
 *Push*- enviar/ comitar/ lançar no hitgub o codigo  
 *Pull*- puxar/ buscar/ baixar o código  
