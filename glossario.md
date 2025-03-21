@@ -27,8 +27,8 @@ Sistemas de Informação Executiva — Painéis de controle estratégicos, exemp
 -> Arquiteturas > Cliente-Servidor; Ponto-a-Ponto;  
 *ponto-a-ponto*- Cada pessoa atualiza o software em caso de atualizações; Torrents  
 *cliente-servidor*- Servidor atualiza por completo, sem necessidade do cliente fazer algo  
-SaaS-  "Software" as a Service  
-PaaS- "Plataforma" as a Service  +
-IaaS- "Infraestrutura" as a Service  
-
+*SaaS*-  "Software" as a Service  
+*PaaS*- "Plataforma" as a Service  +
+*IaaS*- "Infraestrutura" as a Service  
+-> cliente-servidor >> S.O. >> Serviços > SSH; HTTPS; NGINX; GUNICORN; PROXY; CACHE...  
 
