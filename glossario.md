@@ -14,7 +14,21 @@ Sistemas de Informação Executiva — Painéis de controle estratégicos, exemp
 ### iv. Integração de sistemas.  
 *o que é?*
 
+
+### Glossário
 *Push*- enviar/ comitar/ lançar no hitgub o codigo  
 *Pull*- puxar/ buscar/ baixar o código  
 *Commitar*- salvar no github o codigo  
+*Meios*:  
+->Desktop > Sistema Operacional; Hardware  
+->Nuvem > Web; Navegador  
+->Dispositivos móveis > Sistema Operacional; Navegador  
+*Sistemas distribuídos*  
+-> Arquiteturas > Cliente-Servidor; Ponto-a-Ponto;  
+*ponto-a-ponto*- Cada pessoa atualiza o software em caso de atualizações; Torrents  
+*cliente-servidor*- Servidor atualiza por completo, sem necessidade do cliente fazer algo  
+SaaS-  "Software" as a Service  
+PaaS- "Plataforma" as a Service  +
+IaaS- "Infraestrutura" as a Service  
+
 
