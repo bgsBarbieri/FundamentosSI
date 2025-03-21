@@ -28,7 +28,8 @@ Sistemas de Informação Executiva — Painéis de controle estratégicos, exemp
 *ponto-a-ponto*- Cada pessoa atualiza o software em caso de atualizações; Torrents  
 *cliente-servidor*- Servidor atualiza por completo, sem necessidade do cliente fazer algo  
 *SaaS*-  "Software" as a Service  
-*PaaS*- "Plataforma" as a Service  +
+*PaaS*- "Plataform" as a Service  +
 *IaaS*- "Infraestrutura" as a Service  
 -> cliente-servidor >> S.O. >> Serviços > SSH; HTTPS; NGINX; GUNICORN; PROXY; CACHE...  
-
+*Sistemas Pervasivos*- São sistemas, normalmente sensores, que monitoram informações do ambiente e realizam funções conforme esses dados. 
+*Sistemas Ubiquos*- São os sistemas que trabalham de forma onipresente no cotidiano das pessoas, de modo quase imperceptível, automatizando e/ou auxiliando na rotina. 
