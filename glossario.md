@@ -12,7 +12,8 @@ Sistemas de Apoio à Decisão — Análise de cenários, exemplo: sistemas de lo
 Sistemas de Informação Executiva — Painéis de controle estratégicos, exemplo: sistemas de rh, dashboard financeiro.  
   
 ### iv. Integração de sistemas.  
-É um termo recente que se popularizou após as empresas notarem que a utilização de sistemas alavancava imensamente os negócios, 
+É um termo recente que se popularizou após as empresas notarem que a utilização de sistemas alavancava imensamente os negócios, pois integrava vários setores diferentes e conectava a informação que cada um armazenava. 
+
 
 
 ### Glossário
