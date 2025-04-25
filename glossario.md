@@ -16,5 +16,5 @@
 -> cliente-servidor >> S.O. >> Serviços > SSH; HTTPS; NGINX; GUNICORN; PROXY; CACHE...  
 *Sistemas Pervasivos*- São sistemas, normalmente sensores, que monitoram informações do ambiente e realizam funções conforme esses dados. 
 *Sistemas Ubiquos*- São os sistemas que trabalham de forma onipresente no cotidiano das pessoas, de modo quase imperceptível, automatizando e/ou auxiliando na rotina. 
-Relatórios = Extremamente improtantes
+Relatórios = Extremamente improtantes  
 CRM- Customer Relationship Management > Uma das áreas mais importantes para uma empresa, pois gera sensibildiade entre o cliente, fazendo-o estar mais engajado com a empresa
