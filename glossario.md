@@ -18,3 +18,6 @@
 *Sistemas Ubiquos*- São os sistemas que trabalham de forma onipresente no cotidiano das pessoas, de modo quase imperceptível, automatizando e/ou auxiliando na rotina.   
 Relatórios = Extremamente improtantes  
 CRM- Customer Relationship Management > Uma das áreas mais importantes para uma empresa, pois gera sensibildiade entre o cliente, fazendo-o estar mais engajado com a empresa  
+*Criptografia*  
+Serve para manter a confidencialidade, integridade, autenticação e o não repúdio  
+Não repúdio: garantir que a pessoa verdadeira mandou a mensagem, e não outra.
